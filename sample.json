@@ -1,0 +1,77 @@
+{
+  "header_id": "H001",
+  "header_name": "Company Directory",
+  "created_at": "2026-07-23T07:58:00",
+  "departments": [
+    {
+      "department_id": "D101",
+      "department_name": "Engineering",
+      "teams": [
+        {
+          "team_id": "T201",
+          "team_name": "Backend Services",
+          "members": [
+            {
+              "member_id": "M301",
+              "member_name": "Alice",
+              "role": "Senior Developer"
+            },
+            {
+              "member_id": "M302",
+              "member_name": "Bob",
+              "role": "DevOps Engineer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "department_id": "D102",
+      "department_name": "Sales",
+      "teams": [
+        {
+          "team_id": "T203",
+          "team_name": "Domestic Sales",
+          "members": [
+            {
+              "member_id": "M304",
+              "member_name": "David",
+              "role": "Sales Executive"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "project_id": "P501",
+      "project_name": "AI Workflow Automation",
+      "status": "Active",
+      "tasks": [
+        {
+          "task_id": "TK701",
+          "task_name": "Data Pipeline Setup",
+          "assigned_to": "Alice"
+        },
+        {
+          "task_id": "TK702",
+          "task_name": "Snowflake Integration",
+          "assigned_to": "Bob"
+        }
+      ]
+    },
+    {
+      "project_id": "P502",
+      "project_name": "Customer Portal Revamp",
+      "status": "Planning",
+      "tasks": [
+        {
+          "task_id": "TK703",
+          "task_name": "UI Wireframes",
+          "assigned_to": "Charlie"
+        }
+      ]
+    }
+  ]
+}

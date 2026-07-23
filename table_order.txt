@@ -1,0 +1,6 @@
+sample
+sample__departments
+sample__departments__teams
+sample__departments__teams__members
+sample__projects
+sample__projects__tasks
